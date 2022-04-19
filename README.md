@@ -1,4 +1,4 @@
-Personal repository of Codey Camerer
+Codey Camerer's portfolio
 
 
 <!---
