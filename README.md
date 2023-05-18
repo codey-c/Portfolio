@@ -14,7 +14,7 @@ This is a election voting system that computes and displays the results of elect
 
 ClassicBrew:
 A classic table-top style game made with Pygame. This toy project is very much still in early development. 
-[Link to VotingSystem](https://github.com/codey-c/ClassicBrew)
+[Link to ClassicBrew](https://github.com/codey-c/ClassicBrew)
 
 <!---
 codey-c/codey-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
